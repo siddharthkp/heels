@@ -1,0 +1,24 @@
+{
+  "name": "heels",
+  "version": "1.0.0",
+  "description": "### installation",
+  "main": "heels.js",
+  "dependencies": {
+    "rollup": "0.43.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siddharthkp/heels.git"
+  },
+  "keywords": [],
+  "author": "siddharthkp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/siddharthkp/heels/issues"
+  },
+  "homepage": "https://github.com/siddharthkp/heels#readme"
+}
